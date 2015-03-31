@@ -1,4 +1,6 @@
-//Custom Javascript File for lazyPlate
-(function(window){
-	"use strict";
+/**
+ * Custom JavaScript file for project
+ */
+(function(window) {
+  'use strict';
 })(window);
